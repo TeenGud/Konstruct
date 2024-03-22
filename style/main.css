@@ -439,6 +439,7 @@ h1, h2, h3, h4, h5, h6, p {
     padding-left: 76px;
     padding-bottom: 90px;
     gap: 24px;
+    padding-top: 24px;
 }
 .new__p_footer {
     font-family: var(--font-family);
@@ -456,7 +457,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .footer__p {
     font-family: var(--font-family);
-    font-weight: 400;
+    font-weight: 300;
     font-size: 11px;
     letter-spacing: 0.09em;
     color: #fff;
